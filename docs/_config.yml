@@ -1,6 +1,8 @@
 repository: hyperledger/firefly
 logo: "images/hyperledger-firefly_color.svg"
 title: Hyperledger FireFly Docs
+ga_tracking: GTM-T6J7RQ
+ga_tracking_anonymize_ip: true
 baseurl: /firefly
 aux_links:
   "GitHub":
